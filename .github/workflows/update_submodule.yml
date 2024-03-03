@@ -27,7 +27,7 @@ jobs:
       - name: Commit changes
         run: |
           git add content
-          git commit -m "Update submodule to latest commit"
+          git commit -m "Update website content submodule to latest edits"
           git push origin v4
         env:
           GITHUB_TOKEN: ${{ secrets.PAT }}
