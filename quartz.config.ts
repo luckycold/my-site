@@ -9,7 +9,7 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "Call me Lucky",
-    pageTitleSuffix: "Or just Luck... fine Luke if you insist",
+    pageTitleSuffix: "Or Luke too",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
