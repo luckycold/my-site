@@ -1,5 +1,7 @@
 # My Site
 ## By Luke Williams
+
+This is for my note site at https://luckycold.me.
 I've left the original quartz readme down below in case you're wanting to create your own automated markdown based note taking site as well. I occassionally add updates that you can subscribe to with an RSS feed at the index of my site. Another useful tool to automate the process of adding new notes to the repo here is [this](https://github.com/saberzero1/quartz-syncer).
 
 
